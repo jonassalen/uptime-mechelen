@@ -11,6 +11,12 @@ sites:
     url: https://visit.mechelen.be/
   - name: Klimaatneutraal
     url: https://klimaatneutraal.mechelen.be/
+  - name: Cultuurcentrum
+    url: https://cultuurcentrum.mechelen.be/
+  - name: UiT in Mechelen
+    url: https://uitin.mechelen.be/
+  - name: Shoppen
+    url: https://shoppenin.mechelen.be/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -19,8 +25,8 @@ status-website:
   baseUrl: /uptime-mechelen
   logoUrl: https://assets.vlaanderen.be/image/upload/widgets/mechelen.svg
   name: Uptime Mechelen
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Hoe gaat 't met de websites van Stad Mechelen?"
+  introMessage: Deze statuspagina gebruikt **real-time** data van onze websites, te configureren in Github.
   navbar:
     - title: Status
       href: /
