@@ -22,19 +22,19 @@
     "url": "https://www.zorgbedrijfrivierenland.be",
     "icon": "https://favicons.githubusercontent.com/www.zorgbedrijfrivierenland.be",
     "slug": "zbr",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
-    "time": 1989,
-    "timeDay": 1989,
-    "timeWeek": 1989,
-    "timeMonth": 1989,
-    "timeYear": 1989,
+    "status": "up",
+    "uptime": "98.70%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "98.70%",
+    "uptimeYear": "98.70%",
+    "time": 1642,
+    "timeDay": 1642,
+    "timeWeek": 1642,
+    "timeMonth": 1642,
+    "timeYear": 1642,
     "dailyMinutesDown": {
-      "2022-07-01": 2
+      "2022-07-01": 17
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://cultuurcentrum.mechelen.be/",
     "icon": "https://favicons.githubusercontent.com/cultuurcentrum.mechelen.be",
     "slug": "cultuurcentrum",
-    "status": "down",
-    "uptime": "99.21%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.21%",
-    "uptimeMonth": "99.21%",
-    "uptimeYear": "99.21%",
-    "time": 4092,
-    "timeDay": 4092,
-    "timeWeek": 4092,
-    "timeMonth": 4092,
-    "timeYear": 4092,
+    "status": "up",
+    "uptime": "98.76%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "98.76%",
+    "uptimeYear": "98.76%",
+    "time": 3238,
+    "timeDay": 3238,
+    "timeWeek": 3238,
+    "timeMonth": 3238,
+    "timeYear": 3238,
     "dailyMinutesDown": {
-      "2022-07-01": 10
+      "2022-07-01": 16
     }
   },
   {
@@ -116,19 +116,19 @@
     "url": "https://shoppenin.mechelen.be/",
     "icon": "https://favicons.githubusercontent.com/shoppenin.mechelen.be",
     "slug": "shoppen",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 3080,
-    "timeDay": 3080,
-    "timeWeek": 3080,
-    "timeMonth": 3080,
-    "timeYear": 3080,
+    "status": "up",
+    "uptime": "98.82%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "98.82%",
+    "uptimeMonth": "98.82%",
+    "uptimeYear": "98.82%",
+    "time": 2409,
+    "timeDay": 2409,
+    "timeWeek": 2409,
+    "timeMonth": 2409,
+    "timeYear": 2409,
     "dailyMinutesDown": {
-      "2022-07-01": 0
+      "2022-07-01": 15
     }
   }
 ]
