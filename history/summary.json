@@ -22,18 +22,20 @@
     "url": "https://www.zorgbedrijfrivierenland.be",
     "icon": "https://favicons.githubusercontent.com/www.zorgbedrijfrivierenland.be",
     "slug": "zbr",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.85%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 1989,
     "timeDay": 1989,
     "timeWeek": 1989,
     "timeMonth": 1989,
     "timeYear": 1989,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-01": 2
+    }
   },
   {
     "name": "Visit",
@@ -76,19 +78,19 @@
     "url": "https://cultuurcentrum.mechelen.be/",
     "icon": "https://favicons.githubusercontent.com/cultuurcentrum.mechelen.be",
     "slug": "cultuurcentrum",
-    "status": "up",
-    "uptime": "99.27%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.27%",
-    "uptimeMonth": "99.27%",
-    "uptimeYear": "99.27%",
+    "status": "down",
+    "uptime": "99.21%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "99.21%",
+    "uptimeYear": "99.21%",
     "time": 4092,
     "timeDay": 4092,
     "timeWeek": 4092,
     "timeMonth": 4092,
     "timeYear": 4092,
     "dailyMinutesDown": {
-      "2022-07-01": 9
+      "2022-07-01": 10
     }
   },
   {
@@ -114,17 +116,19 @@
     "url": "https://shoppenin.mechelen.be/",
     "icon": "https://favicons.githubusercontent.com/shoppenin.mechelen.be",
     "slug": "shoppen",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 3080,
     "timeDay": 3080,
     "timeWeek": 3080,
     "timeMonth": 3080,
     "timeYear": 3080,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-01": 0
+    }
   }
 ]
