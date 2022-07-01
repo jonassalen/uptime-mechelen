@@ -76,19 +76,19 @@
     "url": "https://cultuurcentrum.mechelen.be/",
     "icon": "https://favicons.githubusercontent.com/cultuurcentrum.mechelen.be",
     "slug": "cultuurcentrum",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 2946,
-    "timeDay": 2946,
-    "timeWeek": 2946,
-    "timeMonth": 2946,
-    "timeYear": 2946,
+    "status": "up",
+    "uptime": "99.27%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.27%",
+    "uptimeYear": "99.27%",
+    "time": 4092,
+    "timeDay": 4092,
+    "timeWeek": 4092,
+    "timeMonth": 4092,
+    "timeYear": 4092,
     "dailyMinutesDown": {
-      "2022-07-01": 1
+      "2022-07-01": 9
     }
   },
   {
