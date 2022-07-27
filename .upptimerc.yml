@@ -17,6 +17,10 @@ sites:
     url: https://uitin.mechelen.be/
   - name: Shoppen
     url: https://shoppenin.mechelen.be/
+  - name: Brugge
+    url: https://www.brugge.be/
+  - name: Just goe
+    url: https://www.justgoe.be/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
