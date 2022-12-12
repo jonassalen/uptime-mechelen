@@ -278,18 +278,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.brugge.be.ico",
     "slug": "brugge",
     "status": "up",
-    "uptime": "21.35%",
+    "uptime": "21.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "21.35%",
+    "uptimeYear": "21.33%",
     "time": 913,
     "timeDay": 797,
     "timeWeek": 837,
     "timeMonth": 833,
     "timeYear": 913,
     "dailyMinutesDown": {
-      "2022-12-12": 43,
+      "2022-12-12": 278,
       "2022-12-11": 1440,
       "2022-12-10": 1440,
       "2022-12-09": 1440,
@@ -406,9 +406,9 @@
     "url": "https://www.justgoe.be/",
     "icon": "https://icons.duckduckgo.com/ip3/www.justgoe.be.ico",
     "slug": "just-goe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -417,6 +417,8 @@
     "timeWeek": 1323,
     "timeMonth": 802,
     "timeYear": 748,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-12": 0
+    }
   }
 ]
