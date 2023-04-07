@@ -1,7 +1,7 @@
 url: https://visit.mechelen.be/
-status: down
-code: 410
-responseTime: 977
-lastUpdated: 2023-04-06T23:11:35.839Z
+status: up
+code: 200
+responseTime: 1208
+lastUpdated: 2023-04-07T13:10:55.271Z
 startTime: Thu Jun 30 2022 11:59:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
