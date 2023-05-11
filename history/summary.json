@@ -293,7 +293,7 @@
     "timeMonth": 958,
     "timeYear": 933,
     "dailyMinutesDown": {
-      "2023-05-11": 360,
+      "2023-05-11": 383,
       "2023-05-10": 1440,
       "2023-05-09": 1440,
       "2023-05-08": 1440,
@@ -560,19 +560,19 @@
     "url": "https://www.justgoe.be/",
     "icon": "https://icons.duckduckgo.com/ip3/www.justgoe.be.ico",
     "slug": "just-goe",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.45%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 755,
-    "timeDay": 626,
-    "timeWeek": 664,
-    "timeMonth": 717,
+    "timeDay": 579,
+    "timeWeek": 647,
+    "timeMonth": 711,
     "timeYear": 755,
     "dailyMinutesDown": {
-      "2023-05-11": 0
+      "2023-05-11": 22
     }
   }
 ]
