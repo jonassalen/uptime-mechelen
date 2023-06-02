@@ -1,7 +1,7 @@
 url: https://shoppenin.mechelen.be/
-status: up
-code: 200
-responseTime: 1347
-lastUpdated: 2023-06-01T23:11:34.984Z
+status: down
+code: 500
+responseTime: 11144
+lastUpdated: 2023-06-02T11:42:53.361Z
 startTime: Thu Jun 30 2022 12:06:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
