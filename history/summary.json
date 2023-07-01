@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mechelen.be.ico",
     "slug": "mechelen",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 1358,
-    "timeDay": 1019,
-    "timeWeek": 1239,
-    "timeMonth": 1618,
-    "timeYear": 1358,
+    "timeDay": 1109,
+    "timeWeek": 1195,
+    "timeMonth": 1602,
+    "timeYear": 1347,
     "dailyMinutesDown": {
       "2022-08-30": 20,
       "2022-08-29": 67,
@@ -41,8 +41,7 @@
       "2022-07-10": 58,
       "2022-07-08": 39,
       "2022-07-04": 21,
-      "2022-07-02": 38,
-      "2022-07-01": 17
+      "2022-07-02": 38
     }
   },
   {
@@ -56,11 +55,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.66%",
-    "time": 1284,
-    "timeDay": 542,
-    "timeWeek": 1520,
-    "timeMonth": 1800,
-    "timeYear": 1284,
+    "time": 1283,
+    "timeDay": 1061,
+    "timeWeek": 1490,
+    "timeMonth": 1817,
+    "timeYear": 1278,
     "dailyMinutesDown": {
       "2023-06-02": 25,
       "2022-08-21": 23,
@@ -80,8 +79,7 @@
       "2022-07-16": 132,
       "2022-07-10": 18,
       "2022-07-08": 171,
-      "2022-07-03": 19,
-      "2022-07-01": 33
+      "2022-07-03": 19
     }
   },
   {
@@ -96,10 +94,10 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.24%",
     "time": 1332,
-    "timeDay": 989,
-    "timeWeek": 1573,
-    "timeMonth": 1956,
-    "timeYear": 1332,
+    "timeDay": 1142,
+    "timeWeek": 1102,
+    "timeMonth": 1945,
+    "timeYear": 1319,
     "dailyMinutesDown": {
       "2023-06-02": 43,
       "2023-04-27": 36,
@@ -127,8 +125,7 @@
       "2022-07-14": 45,
       "2022-07-08": 38,
       "2022-07-04": 21,
-      "2022-07-02": 20,
-      "2022-07-01": 16
+      "2022-07-02": 20
     }
   },
   {
@@ -142,11 +139,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.61%",
-    "time": 1338,
-    "timeDay": 1149,
-    "timeWeek": 1135,
-    "timeMonth": 1377,
-    "timeYear": 1338,
+    "time": 1336,
+    "timeDay": 705,
+    "timeWeek": 1007,
+    "timeMonth": 1369,
+    "timeYear": 1325,
     "dailyMinutesDown": {
       "2023-06-02": 34,
       "2022-08-27": 24,
@@ -184,11 +181,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 1259,
-    "timeDay": 1010,
-    "timeWeek": 1060,
-    "timeMonth": 2144,
-    "timeYear": 1259,
+    "time": 1258,
+    "timeDay": 1000,
+    "timeWeek": 1020,
+    "timeMonth": 2171,
+    "timeYear": 1250,
     "dailyMinutesDown": {
       "2022-08-23": 32,
       "2022-08-22": 18,
@@ -207,8 +204,7 @@
       "2022-07-19": 50,
       "2022-07-16": 130,
       "2022-07-07": 47,
-      "2022-07-02": 18,
-      "2022-07-01": 16
+      "2022-07-02": 18
     }
   },
   {
@@ -254,11 +250,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.59%",
-    "time": 1193,
-    "timeDay": 811,
-    "timeWeek": 1153,
-    "timeMonth": 1555,
-    "timeYear": 1193,
+    "time": 1192,
+    "timeDay": 983,
+    "timeWeek": 980,
+    "timeMonth": 1553,
+    "timeYear": 1183,
     "dailyMinutesDown": {
       "2023-06-02": 34,
       "2022-08-23": 116,
@@ -276,8 +272,7 @@
       "2022-07-14": 44,
       "2022-07-13": 27,
       "2022-07-08": 95,
-      "2022-07-02": 17,
-      "2022-07-01": 15
+      "2022-07-02": 17
     }
   },
   {
@@ -286,14 +281,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.brugge.be.ico",
     "slug": "brugge",
     "status": "up",
-    "uptime": "16.85%",
+    "uptime": "17.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "88.52%",
-    "uptimeYear": "16.85%",
+    "uptimeMonth": "95.11%",
+    "uptimeYear": "17.10%",
     "time": 957,
-    "timeDay": 864,
-    "timeWeek": 936,
+    "timeDay": 827,
+    "timeWeek": 939,
     "timeMonth": 1174,
     "timeYear": 957,
     "dailyMinutesDown": {
@@ -592,11 +587,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 750,
-    "timeDay": 628,
-    "timeWeek": 682,
-    "timeMonth": 705,
-    "timeYear": 750,
+    "time": 749,
+    "timeDay": 551,
+    "timeWeek": 656,
+    "timeMonth": 689,
+    "timeYear": 749,
     "dailyMinutesDown": {
       "2023-05-11": 22
     }
