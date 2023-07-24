@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 1351,
-    "timeDay": 1169,
-    "timeWeek": 1275,
-    "timeMonth": 1228,
+    "timeDay": 1303,
+    "timeWeek": 1277,
+    "timeMonth": 1225,
     "timeYear": 1301,
     "dailyMinutesDown": {
       "2022-08-30": 20,
@@ -32,8 +32,7 @@
       "2022-08-03": 141,
       "2022-08-01": 31,
       "2022-07-26": 26,
-      "2022-07-25": 68,
-      "2022-07-24": 62
+      "2022-07-25": 68
     }
   },
   {
@@ -47,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
-    "time": 1283,
-    "timeDay": 1221,
-    "timeWeek": 1164,
-    "timeMonth": 1325,
-    "timeYear": 1203,
+    "time": 1282,
+    "timeDay": 1178,
+    "timeWeek": 1160,
+    "timeMonth": 1322,
+    "timeYear": 1202,
     "dailyMinutesDown": {
       "2023-06-02": 25,
       "2022-08-21": 23,
@@ -75,16 +74,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/visit.mechelen.be.ico",
     "slug": "visit",
     "status": "up",
-    "uptime": "99.28%",
+    "uptime": "99.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.33%",
-    "time": 1324,
-    "timeDay": 953,
-    "timeWeek": 1336,
-    "timeMonth": 1268,
-    "timeYear": 1264,
+    "time": 1323,
+    "timeDay": 798,
+    "timeWeek": 1239,
+    "timeMonth": 1147,
+    "timeYear": 1262,
     "dailyMinutesDown": {
       "2023-06-02": 43,
       "2023-04-27": 36,
@@ -119,10 +118,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
     "time": 1321,
-    "timeDay": 825,
-    "timeWeek": 1097,
-    "timeMonth": 1058,
-    "timeYear": 1227,
+    "timeDay": 986,
+    "timeWeek": 1107,
+    "timeMonth": 1037,
+    "timeYear": 1226,
     "dailyMinutesDown": {
       "2023-06-02": 34,
       "2022-08-27": 24,
@@ -150,11 +149,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 1245,
-    "timeDay": 1244,
-    "timeWeek": 1002,
-    "timeMonth": 1019,
-    "timeYear": 1189,
+    "time": 1244,
+    "timeDay": 789,
+    "timeWeek": 996,
+    "timeMonth": 1003,
+    "timeYear": 1190,
     "dailyMinutesDown": {
       "2022-08-23": 32,
       "2022-08-22": 18,
@@ -166,8 +165,7 @@
       "2022-08-08": 55,
       "2022-08-03": 16,
       "2022-08-02": 27,
-      "2022-07-25": 31,
-      "2022-07-24": 40
+      "2022-07-25": 31
     }
   },
   {
@@ -209,9 +207,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.63%",
     "time": 1186,
-    "timeDay": 1113,
-    "timeWeek": 1151,
-    "timeMonth": 1094,
+    "timeDay": 1085,
+    "timeWeek": 1196,
+    "timeMonth": 1057,
     "timeYear": 1125,
     "dailyMinutesDown": {
       "2023-06-02": 34,
@@ -224,8 +222,7 @@
       "2022-08-16": 28,
       "2022-08-12": 19,
       "2022-08-08": 28,
-      "2022-08-02": 27,
-      "2022-07-24": 83
+      "2022-08-02": 27
     }
   },
   {
@@ -234,15 +231,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.brugge.be.ico",
     "slug": "brugge",
     "status": "up",
-    "uptime": "22.16%",
+    "uptime": "22.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "22.16%",
+    "uptimeYear": "22.37%",
     "time": 958,
-    "timeDay": 1110,
-    "timeWeek": 956,
-    "timeMonth": 956,
+    "timeDay": 904,
+    "timeWeek": 969,
+    "timeMonth": 959,
     "timeYear": 958,
     "dailyMinutesDown": {
       "2023-06-02": 754,
@@ -541,9 +538,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 748,
-    "timeDay": 745,
-    "timeWeek": 764,
-    "timeMonth": 713,
+    "timeDay": 776,
+    "timeWeek": 770,
+    "timeMonth": 714,
     "timeYear": 748,
     "dailyMinutesDown": {
       "2023-05-11": 22
