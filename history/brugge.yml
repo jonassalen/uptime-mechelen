@@ -1,7 +1,7 @@
 url: https://www.brugge.be/
-status: up
-code: 200
-responseTime: 684
-lastUpdated: 2023-10-02T19:25:32.812Z
+status: down
+code: 503
+responseTime: 578
+lastUpdated: 2023-10-02T20:00:12.724Z
 startTime: 2022-07-27T15:20:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
