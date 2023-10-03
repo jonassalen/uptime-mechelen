@@ -143,11 +143,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.brugge.be.ico",
     "slug": "brugge",
     "status": "up",
-    "uptime": "35.07%",
+    "uptime": "35.11%",
     "uptimeDay": "97.52%",
     "uptimeWeek": "99.65%",
     "uptimeMonth": "99.27%",
-    "uptimeYear": "33.50%",
+    "uptimeYear": "33.59%",
     "time": 1253,
     "timeDay": 4755,
     "timeWeek": 2728,
@@ -405,9 +405,9 @@
     "url": "https://www.justgoe.be/",
     "icon": "https://icons.duckduckgo.com/ip3/www.justgoe.be.ico",
     "slug": "just-goe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -417,6 +417,7 @@
     "timeMonth": 733,
     "timeYear": 759,
     "dailyMinutesDown": {
+      "2023-10-03": 0,
       "2023-05-11": 22
     }
   }
