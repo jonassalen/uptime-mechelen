@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1300,
-    "timeDay": 1239,
-    "timeWeek": 1388,
-    "timeMonth": 1333,
-    "timeYear": 1348,
+    "time": 1301,
+    "timeDay": 1874,
+    "timeWeek": 1550,
+    "timeMonth": 1351,
+    "timeYear": 1349,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.zorgbedrijfrivierenland.be.ico",
     "slug": "zbr",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1169,
-    "timeDay": 1011,
-    "timeWeek": 1182,
-    "timeMonth": 1309,
-    "timeYear": 1219,
+    "timeDay": 889,
+    "timeWeek": 1189,
+    "timeMonth": 1295,
+    "timeYear": 1217,
     "dailyMinutesDown": {
       "2023-06-02": 25
     }
@@ -49,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.46%",
     "time": 1228,
-    "timeDay": 1822,
-    "timeWeek": 1273,
-    "timeMonth": 1322,
-    "timeYear": 1268,
+    "timeDay": 869,
+    "timeWeek": 1292,
+    "timeMonth": 1307,
+    "timeYear": 1266,
     "dailyMinutesDown": {
       "2023-06-02": 43,
       "2023-04-27": 36,
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1152,
-    "timeDay": 1406,
-    "timeWeek": 1154,
-    "timeMonth": 1152,
-    "timeYear": 1155,
+    "time": 1153,
+    "timeDay": 1544,
+    "timeWeek": 1269,
+    "timeMonth": 1165,
+    "timeYear": 1156,
     "dailyMinutesDown": {
       "2023-06-02": 34
     }
@@ -93,10 +93,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1067,
-    "timeDay": 1018,
-    "timeWeek": 1203,
-    "timeMonth": 1067,
-    "timeYear": 1123,
+    "timeDay": 767,
+    "timeWeek": 1181,
+    "timeMonth": 1057,
+    "timeYear": 1121,
     "dailyMinutesDown": {}
   },
   {
@@ -128,11 +128,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1035,
-    "timeDay": 1196,
-    "timeWeek": 1215,
-    "timeMonth": 1080,
-    "timeYear": 1059,
+    "time": 1034,
+    "timeDay": 881,
+    "timeWeek": 1186,
+    "timeMonth": 1073,
+    "timeYear": 1058,
     "dailyMinutesDown": {
       "2023-06-02": 34
     }
@@ -143,15 +143,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.brugge.be.ico",
     "slug": "brugge",
     "status": "up",
-    "uptime": "46.05%",
+    "uptime": "46.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "57.61%",
+    "uptimeYear": "57.89%",
     "time": 1229,
-    "timeDay": 852,
-    "timeWeek": 918,
-    "timeMonth": 1002,
+    "timeDay": 1164,
+    "timeWeek": 993,
+    "timeMonth": 1007,
     "timeYear": 1334,
     "dailyMinutesDown": {
       "2023-10-02": 35,
@@ -308,8 +308,7 @@
       "2023-01-04": 1440,
       "2023-01-03": 1440,
       "2023-01-02": 1440,
-      "2023-01-01": 1440,
-      "2022-12-31": 1440
+      "2023-01-01": 1440
     }
   },
   {
@@ -324,9 +323,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 831,
-    "timeDay": 726,
-    "timeWeek": 880,
-    "timeMonth": 874,
+    "timeDay": 836,
+    "timeWeek": 895,
+    "timeMonth": 873,
     "timeYear": 846,
     "dailyMinutesDown": {
       "2023-11-27": 16,
