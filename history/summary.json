@@ -13,7 +13,7 @@
     "time": 1317,
     "timeDay": 882,
     "timeWeek": 1176,
-    "timeMonth": 1167,
+    "timeMonth": 1166,
     "timeYear": 1361,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 1206,
     "timeDay": 1040,
     "timeWeek": 1172,
-    "timeMonth": 1299,
+    "timeMonth": 1285,
     "timeYear": 1259,
     "dailyMinutesDown": {
       "2023-06-02": 25
@@ -51,7 +51,7 @@
     "time": 1244,
     "timeDay": 821,
     "timeWeek": 1093,
-    "timeMonth": 1094,
+    "timeMonth": 1086,
     "timeYear": 1278,
     "dailyMinutesDown": {
       "2023-06-02": 43,
@@ -75,7 +75,7 @@
     "time": 1164,
     "timeDay": 1012,
     "timeWeek": 1077,
-    "timeMonth": 1306,
+    "timeMonth": 1303,
     "timeYear": 1193,
     "dailyMinutesDown": {
       "2023-06-02": 34
@@ -95,7 +95,7 @@
     "time": 1087,
     "timeDay": 697,
     "timeWeek": 939,
-    "timeMonth": 1128,
+    "timeMonth": 1131,
     "timeYear": 1120,
     "dailyMinutesDown": {}
   },
@@ -131,7 +131,7 @@
     "time": 1042,
     "timeDay": 809,
     "timeWeek": 982,
-    "timeMonth": 912,
+    "timeMonth": 907,
     "timeYear": 1083,
     "dailyMinutesDown": {
       "2023-06-02": 34
@@ -144,17 +144,16 @@
     "slug": "brugge",
     "status": "up",
     "uptime": "54.07%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "82.25%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "82.27%",
     "time": 1286,
     "timeDay": 8460,
     "timeWeek": 2482,
-    "timeMonth": 1364,
+    "timeMonth": 1349,
     "timeYear": 1374,
     "dailyMinutesDown": {
-      "2024-03-29": 7,
       "2024-03-27": 17,
       "2023-10-02": 35,
       "2023-09-17": 283,
@@ -220,8 +219,7 @@
       "2023-04-04": 1440,
       "2023-04-03": 1440,
       "2023-04-02": 1440,
-      "2023-04-01": 1440,
-      "2023-03-31": 1440
+      "2023-04-01": 1440
     }
   },
   {
@@ -238,7 +236,7 @@
     "time": 897,
     "timeDay": 641,
     "timeWeek": 1060,
-    "timeMonth": 965,
+    "timeMonth": 962,
     "timeYear": 922,
     "dailyMinutesDown": {
       "2024-02-11": 17,
