@@ -22,18 +22,20 @@
     "url": "https://www.zorgbedrijfrivierenland.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.zorgbedrijfrivierenland.be.ico",
     "slug": "zbr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1218,
-    "timeDay": 683,
-    "timeWeek": 950,
-    "timeMonth": 1029,
-    "timeYear": 1185,
-    "dailyMinutesDown": {}
+    "timeDay": 1096,
+    "timeWeek": 1020,
+    "timeMonth": 1045,
+    "timeYear": 1186,
+    "dailyMinutesDown": {
+      "2024-07-12": 0
+    }
   },
   {
     "name": "Visit",
@@ -131,7 +133,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.brugge.be.ico",
     "slug": "brugge",
     "status": "up",
-    "uptime": "60.75%",
+    "uptime": "60.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
