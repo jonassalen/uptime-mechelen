@@ -4,36 +4,39 @@
     "url": "https://www.mechelen.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.mechelen.be.ico",
     "slug": "mechelen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1331,
+    "time": 1330,
     "timeDay": 1161,
     "timeWeek": 1484,
     "timeMonth": 1324,
     "timeYear": 1326,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-06": 2
+    }
   },
   {
     "name": "ZBR",
     "url": "https://www.zorgbedrijfrivierenland.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.zorgbedrijfrivierenland.be.ico",
     "slug": "zbr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "92.31%",
     "uptimeYear": "99.36%",
-    "time": 1226,
+    "time": 1227,
     "timeDay": 1263,
     "timeWeek": 1255,
     "timeMonth": 1212,
     "timeYear": 1188,
     "dailyMinutesDown": {
+      "2024-08-06": 2,
       "2024-07-15": 399,
       "2024-07-14": 1440,
       "2024-07-13": 1440,
@@ -45,28 +48,30 @@
     "url": "https://visit.mechelen.be/",
     "icon": "https://icons.duckduckgo.com/ip3/visit.mechelen.be.ico",
     "slug": "visit",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1252,
+    "time": 1253,
     "timeDay": 861,
     "timeWeek": 1169,
     "timeMonth": 1215,
     "timeYear": 1204,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-06": 2
+    }
   },
   {
     "name": "Klimaatneutraal",
     "url": "https://klimaatneutraal.mechelen.be/",
     "icon": "https://icons.duckduckgo.com/ip3/klimaatneutraal.mechelen.be.ico",
     "slug": "klimaatneutraal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1169,
@@ -74,35 +79,39 @@
     "timeWeek": 1060,
     "timeMonth": 1147,
     "timeYear": 1157,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-06": 1
+    }
   },
   {
     "name": "Cultuurcentrum",
     "url": "https://cultuurcentrum.mechelen.be/",
     "icon": "https://icons.duckduckgo.com/ip3/cultuurcentrum.mechelen.be.ico",
     "slug": "cultuurcentrum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1079,
+    "time": 1080,
     "timeDay": 1170,
     "timeWeek": 959,
     "timeMonth": 940,
     "timeYear": 1002,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-06": 1
+    }
   },
   {
     "name": "UiT in Mechelen",
     "url": "https://uitin.mechelen.be/",
     "icon": "https://icons.duckduckgo.com/ip3/uitin.mechelen.be.ico",
     "slug": "ui-t-in-mechelen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 0,
@@ -110,16 +119,18 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-06": 1
+    }
   },
   {
     "name": "Shoppen",
     "url": "https://shoppenin.mechelen.be/",
     "icon": "https://icons.duckduckgo.com/ip3/shoppenin.mechelen.be.ico",
     "slug": "shoppen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -128,7 +139,9 @@
     "timeWeek": 1064,
     "timeMonth": 997,
     "timeYear": 1015,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-06": 0
+    }
   },
   {
     "name": "Brugge",
@@ -136,7 +149,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.brugge.be.ico",
     "slug": "brugge",
     "status": "up",
-    "uptime": "62.07%",
+    "uptime": "62.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
