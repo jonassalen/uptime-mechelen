@@ -1,7 +1,7 @@
 url: https://www.mechelen.be
-status: up
-code: 200
-responseTime: 1241
-lastUpdated: 2024-09-20T23:13:42.464Z
+status: down
+code: 503
+responseTime: 1084
+lastUpdated: 2024-09-21T10:40:42.849Z
 startTime: 2022-06-30T11:59:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
