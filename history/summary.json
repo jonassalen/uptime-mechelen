@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1265,
-    "timeDay": 1077,
-    "timeWeek": 1297,
-    "timeMonth": 1238,
+    "timeDay": 1105,
+    "timeWeek": 1233,
+    "timeMonth": 1227,
     "timeYear": 1238,
     "dailyMinutesDown": {
       "2024-08-06": 18
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.36%",
     "time": 1155,
-    "timeDay": 794,
-    "timeWeek": 972,
-    "timeMonth": 1064,
+    "timeDay": 924,
+    "timeWeek": 925,
+    "timeMonth": 1051,
     "timeYear": 1138,
     "dailyMinutesDown": {
       "2024-08-06": 17,
@@ -55,9 +55,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1192,
-    "timeDay": 824,
-    "timeWeek": 1112,
-    "timeMonth": 1151,
+    "timeDay": 1311,
+    "timeWeek": 1035,
+    "timeMonth": 1161,
     "timeYear": 1166,
     "dailyMinutesDown": {
       "2024-08-06": 17
@@ -74,11 +74,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1142,
-    "timeDay": 856,
-    "timeWeek": 1155,
-    "timeMonth": 1186,
-    "timeYear": 1131,
+    "time": 1141,
+    "timeDay": 1310,
+    "timeWeek": 1094,
+    "timeMonth": 1179,
+    "timeYear": 1132,
     "dailyMinutesDown": {
       "2024-08-06": 17
     }
@@ -95,10 +95,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 995,
-    "timeDay": 906,
+    "timeDay": 792,
     "timeWeek": 989,
-    "timeMonth": 936,
-    "timeYear": 989,
+    "timeMonth": 925,
+    "timeYear": 988,
     "dailyMinutesDown": {
       "2024-08-06": 17
     }
@@ -135,10 +135,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1016,
-    "timeDay": 603,
-    "timeWeek": 854,
-    "timeMonth": 990,
-    "timeYear": 1012,
+    "timeDay": 777,
+    "timeWeek": 832,
+    "timeMonth": 978,
+    "timeYear": 1011,
     "dailyMinutesDown": {
       "2024-08-06": 16
     }
@@ -149,16 +149,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.brugge.be.ico",
     "slug": "brugge",
     "status": "up",
-    "uptime": "68.39%",
+    "uptime": "68.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1036,
-    "timeDay": 548,
-    "timeWeek": 642,
-    "timeMonth": 602,
-    "timeYear": 706,
+    "time": 1035,
+    "timeDay": 320,
+    "timeWeek": 608,
+    "timeMonth": 598,
+    "timeYear": 705,
     "dailyMinutesDown": {
       "2024-06-04": 31,
       "2024-03-27": 17
@@ -176,9 +176,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 893,
-    "timeDay": 529,
-    "timeWeek": 786,
-    "timeMonth": 731,
+    "timeDay": 634,
+    "timeWeek": 758,
+    "timeMonth": 721,
     "timeYear": 839,
     "dailyMinutesDown": {
       "2024-06-14": 17,
