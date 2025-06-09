@@ -163,18 +163,20 @@
     "url": "https://www.brugge.be/",
     "icon": "https://icons.duckduckgo.com/ip3/www.brugge.be.ico",
     "slug": "brugge",
-    "status": "up",
+    "status": "down",
     "uptime": "73.19%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 646,
+    "time": 644,
     "timeDay": 323,
     "timeWeek": 597,
     "timeMonth": 538,
     "timeYear": 560,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-09": 0
+    }
   },
   {
     "name": "Just goe",
