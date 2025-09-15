@@ -17,8 +17,8 @@ sites:
     url: https://uitin.mechelen.be/
   - name: Shoppen
     url: https://shoppenin.mechelen.be/
-  - name: Brugge
-    url: https://www.brugge.be/
+  - name: Mechelen nieuw
+    url: https://mechelen-prod.hosted-temp.com/
   - name: Just goe
     url: https://www.justgoe.be/
 
