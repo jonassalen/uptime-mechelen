@@ -1,7 +1,7 @@
 url: https://mechelen-prod.hosted-temp.com/
-status: down
-code: 502
-responseTime: 684
-lastUpdated: 2025-09-22T09:40:55.395Z
+status: up
+code: 200
+responseTime: 1072
+lastUpdated: 2025-09-22T09:49:46.528Z
 startTime: 2025-09-15T08:28:45.792Z
 generator: Upptime <https://github.com/upptime/upptime>
