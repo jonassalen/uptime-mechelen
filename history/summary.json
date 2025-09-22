@@ -12,7 +12,7 @@
     "uptimeYear": "99.80%",
     "time": 1256,
     "timeDay": 1115,
-    "timeWeek": 1354,
+    "timeWeek": 1414,
     "timeMonth": 1416,
     "timeYear": 1251,
     "dailyMinutesDown": {
@@ -54,7 +54,7 @@
     "uptimeYear": "99.78%",
     "time": 1270,
     "timeDay": 762,
-    "timeWeek": 1212,
+    "timeWeek": 1223,
     "timeMonth": 1252,
     "timeYear": 1291,
     "dailyMinutesDown": {
@@ -76,7 +76,7 @@
     "uptimeYear": "99.66%",
     "time": 1157,
     "timeDay": 1028,
-    "timeWeek": 1192,
+    "timeWeek": 1182,
     "timeMonth": 1237,
     "timeYear": 1169,
     "dailyMinutesDown": {
@@ -97,7 +97,7 @@
     "uptimeYear": "99.77%",
     "time": 1049,
     "timeDay": 1133,
-    "timeWeek": 1150,
+    "timeWeek": 1167,
     "timeMonth": 1081,
     "timeYear": 1078,
     "dailyMinutesDown": {
@@ -139,7 +139,7 @@
     "uptimeYear": "99.66%",
     "time": 1046,
     "timeDay": 831,
-    "timeWeek": 1132,
+    "timeWeek": 1161,
     "timeMonth": 1083,
     "timeYear": 1060,
     "dailyMinutesDown": {
@@ -152,18 +152,20 @@
     "url": "https://mechelen-prod.hosted-temp.com/",
     "icon": "https://icons.duckduckgo.com/ip3/mechelen-prod.hosted-temp.com.ico",
     "slug": "mechelen-nieuw",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 947,
-    "timeDay": 625,
-    "timeWeek": 947,
-    "timeMonth": 947,
-    "timeYear": 947,
-    "dailyMinutesDown": {}
+    "time": 918,
+    "timeDay": 655,
+    "timeWeek": 931,
+    "timeMonth": 918,
+    "timeYear": 918,
+    "dailyMinutesDown": {
+      "2025-09-22": 0
+    }
   },
   {
     "name": "Just goe",
@@ -178,7 +180,7 @@
     "uptimeYear": "99.98%",
     "time": 750,
     "timeDay": 543,
-    "timeWeek": 793,
+    "timeWeek": 829,
     "timeMonth": 800,
     "timeYear": 747,
     "dailyMinutesDown": {
