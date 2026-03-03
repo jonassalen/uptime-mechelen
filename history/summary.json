@@ -191,19 +191,20 @@
     "url": "https://www.justgoe.be/",
     "icon": "https://icons.duckduckgo.com/ip3/www.justgoe.be.ico",
     "slug": "just-goe",
-    "status": "down",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "97.20%",
-    "uptimeMonth": "97.99%",
-    "uptimeYear": "99.70%",
-    "time": 818,
-    "timeDay": 1029,
+    "uptimeDay": "95.45%",
+    "uptimeWeek": "96.55%",
+    "uptimeMonth": "97.84%",
+    "uptimeYear": "99.68%",
+    "time": 817,
+    "timeDay": 916,
     "timeWeek": 800,
     "timeMonth": 783,
     "timeYear": 833,
     "dailyMinutesDown": {
-      "2026-03-02": 0,
+      "2026-03-03": 57,
+      "2026-03-02": 9,
       "2026-03-01": 18,
       "2026-02-28": 19,
       "2026-02-27": 180,
@@ -234,8 +235,7 @@
       "2025-11-08": 20,
       "2025-10-09": 17,
       "2025-09-09": 19,
-      "2025-05-01": 21,
-      "2025-03-03": 24
+      "2025-05-01": 21
     }
   }
 ]
