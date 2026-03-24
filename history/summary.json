@@ -7,13 +7,13 @@
     "status": "up",
     "uptime": "99.87%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.36%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.75%",
-    "time": 1421,
-    "timeDay": 2160,
-    "timeWeek": 1423,
-    "timeMonth": 1486,
+    "time": 1420,
+    "timeDay": 1051,
+    "timeWeek": 1414,
+    "timeMonth": 1479,
     "timeYear": 1485,
     "dailyMinutesDown": {
       "2026-03-16": 65,
@@ -21,8 +21,7 @@
       "2025-12-11": 27,
       "2025-10-01": 34,
       "2025-09-23": 100,
-      "2025-03-25": 570,
-      "2025-03-24": 502
+      "2025-03-25": 570
     }
   },
   {
@@ -37,15 +36,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.57%",
     "time": 1145,
-    "timeDay": 908,
-    "timeWeek": 899,
-    "timeMonth": 1028,
+    "timeDay": 933,
+    "timeWeek": 895,
+    "timeMonth": 1022,
     "timeYear": 1166,
     "dailyMinutesDown": {
       "2025-12-09": 218,
       "2025-12-08": 262,
-      "2025-03-25": 1282,
-      "2025-03-24": 501
+      "2025-03-25": 1282
     }
   },
   {
@@ -60,16 +58,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
     "time": 1289,
-    "timeDay": 1530,
-    "timeWeek": 1100,
-    "timeMonth": 1194,
-    "timeYear": 1324,
+    "timeDay": 850,
+    "timeWeek": 1032,
+    "timeMonth": 1195,
+    "timeYear": 1325,
     "dailyMinutesDown": {
       "2025-12-09": 218,
       "2025-12-08": 262,
       "2025-03-26": 79,
-      "2025-03-25": 592,
-      "2025-03-24": 501
+      "2025-03-25": 592
     }
   },
   {
@@ -83,16 +80,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.57%",
-    "time": 1164,
-    "timeDay": 1257,
-    "timeWeek": 955,
-    "timeMonth": 998,
+    "time": 1163,
+    "timeDay": 626,
+    "timeWeek": 840,
+    "timeMonth": 981,
     "timeYear": 1157,
     "dailyMinutesDown": {
       "2025-12-09": 218,
       "2025-12-08": 262,
-      "2025-03-25": 1282,
-      "2025-03-24": 500
+      "2025-03-25": 1282
     }
   },
   {
@@ -106,16 +102,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
-    "time": 1057,
-    "timeDay": 723,
-    "timeWeek": 912,
-    "timeMonth": 957,
+    "time": 1056,
+    "timeDay": 661,
+    "timeWeek": 767,
+    "timeMonth": 950,
     "timeYear": 1090,
     "dailyMinutesDown": {
       "2025-12-09": 218,
       "2025-12-08": 262,
-      "2025-03-25": 713,
-      "2025-03-24": 500
+      "2025-03-25": 713
     }
   },
   {
@@ -137,8 +132,7 @@
     "dailyMinutesDown": {
       "2025-12-09": 150,
       "2025-12-08": 262,
-      "2025-03-25": 838,
-      "2025-03-24": 499
+      "2025-03-25": 838
     }
   },
   {
@@ -153,15 +147,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.58%",
     "time": 1067,
-    "timeDay": 1166,
-    "timeWeek": 1009,
-    "timeMonth": 1020,
-    "timeYear": 1090,
+    "timeDay": 1135,
+    "timeWeek": 1044,
+    "timeMonth": 1022,
+    "timeYear": 1091,
     "dailyMinutesDown": {
       "2025-12-09": 150,
       "2025-12-08": 262,
-      "2025-03-25": 1282,
-      "2025-03-24": 499
+      "2025-03-25": 1282
     }
   },
   {
@@ -172,14 +165,14 @@
     "status": "up",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.36%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.93%",
-    "time": 928,
-    "timeDay": 967,
-    "timeWeek": 1039,
-    "timeMonth": 947,
-    "timeYear": 928,
+    "time": 927,
+    "timeDay": 731,
+    "timeWeek": 858,
+    "timeMonth": 944,
+    "timeYear": 927,
     "dailyMinutesDown": {
       "2026-03-16": 65,
       "2026-02-02": 48,
@@ -197,12 +190,12 @@
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.67%",
+    "uptimeMonth": "98.68%",
     "uptimeYear": "99.64%",
-    "time": 819,
-    "timeDay": 904,
-    "timeWeek": 718,
-    "timeMonth": 763,
+    "time": 818,
+    "timeDay": 557,
+    "timeWeek": 677,
+    "timeMonth": 758,
     "timeYear": 831,
     "dailyMinutesDown": {
       "2026-03-11": 44,
