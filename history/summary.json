@@ -75,16 +75,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/klimaatneutraal.mechelen.be.ico",
     "slug": "klimaatneutraal",
     "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.72%",
-    "time": 1209,
-    "timeDay": 1209,
-    "timeWeek": 1583,
-    "timeMonth": 1517,
-    "timeYear": 1221,
+    "uptime": "99.73%",
+    "uptimeDay": "84.56%",
+    "uptimeWeek": "97.79%",
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "99.68%",
+    "time": 1211,
+    "timeDay": 1415,
+    "timeWeek": 1588,
+    "timeMonth": 1520,
+    "timeYear": 1222,
     "dailyMinutesDown": {
       "2025-12-09": 218,
       "2025-12-08": 262,
@@ -92,7 +92,8 @@
       "2026-04-10": 38,
       "2026-04-11": 325,
       "2026-04-16": 425,
-      "2026-05-19": 83
+      "2026-05-19": 83,
+      "2026-05-28": 222
     }
   },
   {
