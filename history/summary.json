@@ -74,17 +74,17 @@
     "url": "https://klimaatneutraal.mechelen.be/",
     "icon": "https://icons.duckduckgo.com/ip3/klimaatneutraal.mechelen.be.ico",
     "slug": "klimaatneutraal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.30%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.29%",
     "uptimeYear": "99.68%",
-    "time": 1220,
-    "timeDay": 1528,
-    "timeWeek": 1837,
-    "timeMonth": 1634,
-    "timeYear": 1236,
+    "time": 1219,
+    "timeDay": 1030,
+    "timeWeek": 1674,
+    "timeMonth": 1602,
+    "timeYear": 1235,
     "dailyMinutesDown": {
       "2025-12-09": 218,
       "2025-12-08": 262,
@@ -93,7 +93,8 @@
       "2026-04-11": 325,
       "2026-04-16": 425,
       "2026-05-19": 83,
-      "2026-05-28": 222
+      "2026-05-28": 222,
+      "2026-06-05": 5
     }
   },
   {
@@ -192,13 +193,13 @@
     "url": "https://www.justgoe.be/",
     "icon": "https://icons.duckduckgo.com/ip3/www.justgoe.be.ico",
     "slug": "just-goe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "58.30%",
-    "uptimeWeek": "93.78%",
+    "uptimeDay": "73.43%",
+    "uptimeWeek": "93.77%",
     "uptimeMonth": "98.34%",
     "uptimeYear": "99.48%",
-    "time": 815,
+    "time": 814,
     "timeDay": 720,
     "timeWeek": 688,
     "timeMonth": 709,
@@ -243,7 +244,8 @@
       "2026-04-04": 38,
       "2026-04-11": 65,
       "2026-05-15": 98,
-      "2026-06-04": 627
+      "2026-06-04": 627,
+      "2026-06-05": 0
     }
   }
 ]
