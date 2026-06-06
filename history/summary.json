@@ -195,10 +195,10 @@
     "slug": "just-goe",
     "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "63.59%",
-    "uptimeWeek": "88.57%",
-    "uptimeMonth": "97.15%",
-    "uptimeYear": "99.38%",
+    "uptimeDay": "61.29%",
+    "uptimeWeek": "88.25%",
+    "uptimeMonth": "97.07%",
+    "uptimeYear": "99.37%",
     "time": 807,
     "timeDay": 923,
     "timeWeek": 741,
@@ -246,7 +246,7 @@
       "2026-05-15": 98,
       "2026-06-04": 627,
       "2026-06-05": 520,
-      "2026-06-06": 4
+      "2026-06-06": 37
     }
   }
 ]
