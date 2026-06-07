@@ -42,7 +42,7 @@
     "timeDay": 701,
     "timeWeek": 1491,
     "timeMonth": 1157,
-    "timeYear": 1212,
+    "timeYear": 1211,
     "dailyMinutesDown": {
       "2025-12-09": 218,
       "2025-12-08": 262
@@ -63,7 +63,7 @@
     "timeDay": 869,
     "timeWeek": 997,
     "timeMonth": 1120,
-    "timeYear": 1275,
+    "timeYear": 1272,
     "dailyMinutesDown": {
       "2025-12-09": 218,
       "2025-12-08": 262
@@ -84,7 +84,7 @@
     "timeDay": 1060,
     "timeWeek": 1445,
     "timeMonth": 1583,
-    "timeYear": 1238,
+    "timeYear": 1236,
     "dailyMinutesDown": {
       "2025-12-09": 218,
       "2025-12-08": 262,
@@ -113,7 +113,7 @@
     "timeDay": 705,
     "timeWeek": 966,
     "timeMonth": 996,
-    "timeYear": 1052,
+    "timeYear": 1049,
     "dailyMinutesDown": {
       "2025-12-09": 218,
       "2025-12-08": 262
@@ -156,7 +156,7 @@
     "timeDay": 792,
     "timeWeek": 915,
     "timeMonth": 979,
-    "timeYear": 1107,
+    "timeYear": 1104,
     "dailyMinutesDown": {
       "2025-12-09": 150,
       "2025-12-08": 262,
@@ -194,17 +194,17 @@
     "url": "https://www.justgoe.be/",
     "icon": "https://icons.duckduckgo.com/ip3/www.justgoe.be.ico",
     "slug": "just-goe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "85.51%",
-    "uptimeWeek": "82.64%",
+    "uptimeDay": "92.67%",
+    "uptimeWeek": "82.63%",
     "uptimeMonth": "95.78%",
     "uptimeYear": "99.27%",
     "time": 807,
-    "timeDay": 730,
+    "timeDay": 711,
     "timeWeek": 714,
     "timeMonth": 720,
-    "timeYear": 835,
+    "timeYear": 834,
     "dailyMinutesDown": {
       "2025-09-09": 19,
       "2025-10-09": 17,
