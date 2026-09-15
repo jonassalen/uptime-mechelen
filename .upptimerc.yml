@@ -9,16 +9,10 @@ sites:
     url: https://www.zorgbedrijfrivierenland.be
   - name: Visit
     url: https://visit.mechelen.be/
-  - name: Klimaatneutraal
-    url: https://klimaatneutraal.mechelen.be/
   - name: Cultuurcentrum
     url: https://cultuurcentrum.mechelen.be/
   - name: UiT in Mechelen
     url: https://uitin.mechelen.be/
-  - name: Shoppen
-    url: https://shoppenin.mechelen.be/
-  - name: Mechelen nieuw
-    url: https://mechelen-prod.hosted-temp.com/
   - name: Just goe
     url: https://www.justgoe.be/
 
