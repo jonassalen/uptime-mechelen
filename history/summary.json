@@ -4,17 +4,17 @@
     "url": "https://www.mechelen.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.mechelen.be.ico",
     "slug": "mechelen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 1573,
-    "timeDay": 2373,
-    "timeWeek": 1971,
-    "timeMonth": 1583,
-    "timeYear": 1623,
+    "timeDay": 1677,
+    "timeWeek": 1847,
+    "timeMonth": 1563,
+    "timeYear": 1621,
     "dailyMinutesDown": {
       "2025-12-11": 27,
       "2025-12-30": 23,
@@ -23,7 +23,8 @@
       "2026-03-30": 52,
       "2026-04-11": 66,
       "2026-04-16": 426,
-      "2026-07-29": 122
+      "2026-07-29": 122,
+      "2026-10-21": 1
     }
   },
   {
@@ -31,20 +32,21 @@
     "url": "https://www.zorgbedrijfrivierenland.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.zorgbedrijfrivierenland.be.ico",
     "slug": "zbr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 1196,
-    "timeDay": 1954,
-    "timeWeek": 1570,
-    "timeMonth": 1392,
-    "timeYear": 1216,
+    "timeDay": 1305,
+    "timeWeek": 1456,
+    "timeMonth": 1368,
+    "timeYear": 1214,
     "dailyMinutesDown": {
       "2025-12-09": 218,
-      "2025-12-08": 262
+      "2025-12-08": 262,
+      "2026-10-21": 1
     }
   },
   {
@@ -52,17 +54,17 @@
     "url": "https://visit.mechelen.be/",
     "icon": "https://icons.duckduckgo.com/ip3/visit.mechelen.be.ico",
     "slug": "visit",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.27%",
-    "time": 1566,
-    "timeDay": 3465,
-    "timeWeek": 2719,
-    "timeMonth": 2453,
-    "timeYear": 1636,
+    "time": 1567,
+    "timeDay": 2610,
+    "timeWeek": 2598,
+    "timeMonth": 2430,
+    "timeYear": 1637,
     "dailyMinutesDown": {
       "2025-12-09": 218,
       "2025-12-08": 262,
@@ -72,7 +74,8 @@
       "2026-08-01": 1440,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
-      "2026-07-29": 832
+      "2026-07-29": 832,
+      "2026-10-21": 1
     }
   },
   {
@@ -80,20 +83,21 @@
     "url": "https://cultuurcentrum.mechelen.be/",
     "icon": "https://icons.duckduckgo.com/ip3/cultuurcentrum.mechelen.be.ico",
     "slug": "cultuurcentrum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 1024,
-    "timeDay": 1671,
-    "timeWeek": 1255,
-    "timeMonth": 1083,
-    "timeYear": 984,
+    "time": 1023,
+    "timeDay": 1133,
+    "timeWeek": 1172,
+    "timeMonth": 1067,
+    "timeYear": 983,
     "dailyMinutesDown": {
       "2025-12-09": 218,
-      "2025-12-08": 262
+      "2025-12-08": 262,
+      "2026-10-21": 1
     }
   },
   {
@@ -101,21 +105,22 @@
     "url": "https://uitin.mechelen.be/",
     "icon": "https://icons.duckduckgo.com/ip3/uitin.mechelen.be.ico",
     "slug": "ui-t-in-mechelen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 1019,
-    "timeDay": 1024,
-    "timeWeek": 1018,
-    "timeMonth": 999,
-    "timeYear": 980,
+    "time": 1017,
+    "timeDay": 765,
+    "timeWeek": 954,
+    "timeMonth": 983,
+    "timeYear": 979,
     "dailyMinutesDown": {
       "2025-12-09": 150,
       "2025-12-08": 262,
-      "2026-03-29": 181
+      "2026-03-29": 181,
+      "2026-10-21": 0
     }
   },
   {
