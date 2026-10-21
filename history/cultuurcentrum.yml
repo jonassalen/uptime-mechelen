@@ -1,7 +1,7 @@
 url: https://cultuurcentrum.mechelen.be/
-status: up
-code: 200
-responseTime: 1671
-lastUpdated: 2026-10-21T01:15:08.837Z
+status: down
+code: 503
+responseTime: 594
+lastUpdated: 2026-10-21T17:18:42.201Z
 startTime: 2022-06-30T12:05:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
